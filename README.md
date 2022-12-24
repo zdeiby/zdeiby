@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 &nbsp; <a href="mailto:zdeiby@gmail.com"><img src="https://camo.githubusercontent.com/0b284ad31336fce94b81ed72e0e51a99bc2febd3bc995c423dabf4def3a9c534/68747470733a2f2f696d672e69636f6e73382e636f6d2f706c6173746963696e652f3130302f3030303030302f676d61696c2e706e67" width="50" data-canonical-src="https://img.icons8.com/plasticine/100/000000/gmail.png" style="max-width: 100%;"></a>
 </p>
 <br>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c63944e691c8f7157348bf75b211b4a7be538f70bdef0277fdedb5ce6203297/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53686172614742266c6162656c3d50726f66696c65253230766965777326636f6c6f723d613935646439267374796c653d666c6174253232"><img src="https://camo.githubusercontent.com/4c63944e691c8f7157348bf75b211b4a7be538f70bdef0277fdedb5ce6203297/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53686172614742266c6162656c3d50726f66696c65253230766965777326636f6c6f723d613935646439267374796c653d666c6174253232" alt="=zdeiby" data-canonical-src="https://komarev.com/ghpvc/?username=zdeiby&amp;label=Profile%20views&amp;color=a95dd9&amp;style=flat%22" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><img src="https://komarev.com/ghpvc/?username=zdeiby&style=flat-square" alt="=zdeiby" data-canonical-src="![](https://komarev.com/ghpvc/?username=zdeiby&style=flat-square)" style="max-width: 100%;"></a></p>
 <br>
 </article>
   </div>
