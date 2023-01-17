@@ -9,7 +9,7 @@ zdeiby/zdeiby is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![Top Langs](https://api.githubtrends.io/user/svg/zdeiby/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zdeiby&theme=dark)
 
  ![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=zdeiby&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
