@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zdeiby <img src="https://raw.githubusercontent.com/devarias/devarias/main/Hi.gif" style="max-width: 10%; display: inline-block;" data-target="animated-image.originalImage">
+- 👋 Hi, I’m @zdeiby <img src="https://raw.githubusercontent.com/devarias/devarias/main/Hi.gif" style="width: 25px; display: inline-block;">
      
           
     
