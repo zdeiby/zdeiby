@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @zdeiby
+- 👋 Hi, I’m @zdeiby <img src="https://raw.githubusercontent.com/devarias/devarias/main/Hi.gif" style="max-width: 10%; display: inline-block;" data-target="animated-image.originalImage">
+     
+          
+    
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning node js   
 - 💞️ I’m looking to collaborat programming projects
