@@ -11,7 +11,7 @@ zdeiby/zdeiby is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdeiby&langs_count=15)](https://github.com/zdeiby/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zdeiby&theme=dark&langs_count=15)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zdeiby&theme=dark&langs_count=20)
 
  ![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=zdeiby&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
